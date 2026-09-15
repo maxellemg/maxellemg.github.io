@@ -281,10 +281,9 @@ section { padding: 96px 0; }
   transform: translateY(-3px);
 }
 
-.skill-dot {
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  background: var(--accent);
+.skill-badge img {
+  width: 24px;
+  height: 24px;
 }
 
 /* Projects */
