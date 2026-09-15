@@ -29,11 +29,11 @@ Currently open for freelance projects — let's build something great together.
 
 | Project | Stack | Status |
 |---|---|---|
-| _Coming Soon_ | PHP · Laravel · MySQL | 🚧 In Progress |
+| **Ordigo** — QR-based self-ordering system for cafes & restaurants (order & pay from the table, real-time dashboards for cashier/kitchen/owner) | PHP · Laravel · MySQL · Midtrans · Tailwind CSS | ✅ Contact me for a demo |
 | _Coming Soon_ | HTML · CSS · JavaScript | 🚧 In Progress |
 | _Coming Soon_ | PHP · MySQL · Git | 🚧 In Progress |
 
-> Project details will be added here shortly.
+> More project details coming soon.
 
 ### 📄 Resume
 
@@ -69,11 +69,11 @@ Saat ini terbuka untuk proyek freelance — mari membangun sesuatu yang hebat be
 
 | Proyek | Stack | Status |
 |---|---|---|
-| _Segera Hadir_ | PHP · Laravel · MySQL | 🚧 Dalam Proses |
+| **Ordigo** — Sistem self-ordering berbasis QR untuk kafe & resto (pesan & bayar dari meja, dashboard real-time untuk kasir/dapur/owner) | PHP · Laravel · MySQL · Midtrans · Tailwind CSS | ✅ Hubungi saya untuk demo |
 | _Segera Hadir_ | HTML · CSS · JavaScript | 🚧 Dalam Proses |
 | _Segera Hadir_ | PHP · MySQL · Git | 🚧 Dalam Proses |
 
-> Detail proyek akan ditambahkan segera.
+> Detail proyek lainnya akan ditambahkan segera.
 
 ### 📄 CV
 

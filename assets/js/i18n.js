@@ -22,7 +22,12 @@ const translations = {
       placeholder_title: "Project Coming Soon",
       placeholder_desc: "Details for this project will be added here shortly.",
       view_demo: "Live Demo",
-      view_code: "Source Code"
+      view_code: "Source Code",
+      contact_demo: "Contact for Demo",
+      ordigo: {
+        title: "Ordigo",
+        desc: "QR-based self-ordering system for cafes & restaurants. Customers scan the QR code at their table, order, and pay on their phone (QRIS/cash) — no cashier queue. Comes with real-time dashboards for cashiers (payment confirmation), kitchen/barista staff (per-station order handling), and owners/admins (menu, tables, automatic sales reports). Built with Laravel + Midtrans, ready for multi-table use in a single outlet."
+      }
     },
     contact: {
       title: "Get In Touch",
@@ -57,7 +62,12 @@ const translations = {
       placeholder_title: "Proyek Segera Hadir",
       placeholder_desc: "Detail proyek ini akan ditambahkan segera.",
       view_demo: "Demo Langsung",
-      view_code: "Kode Sumber"
+      view_code: "Kode Sumber",
+      contact_demo: "Hubungi untuk Demo",
+      ordigo: {
+        title: "Ordigo",
+        desc: "Sistem self-ordering berbasis QR untuk kafe & resto. Pelanggan scan QR di meja, pesan & bayar langsung lewat HP (QRIS/tunai), tanpa antre kasir. Dilengkapi dashboard real-time untuk kasir (konfirmasi bayar), barista/dapur (kelola pesanan per station), dan admin/owner (kelola menu, meja, laporan penjualan otomatis). Dibangun pakai Laravel + Midtrans, siap dipakai multi-meja dalam satu outlet."
+      }
     },
     contact: {
       title: "Hubungi Saya",
