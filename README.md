@@ -22,7 +22,7 @@ Currently open for freelance projects — let's build something great together.
 ### 🛠️ Skills & Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,php,laravel" />
 </div>
 
 ### 💼 Projects
