@@ -62,7 +62,7 @@ Saat ini terbuka untuk proyek freelance — mari membangun sesuatu yang hebat be
 ### 🛠️ Keahlian & Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,php,laravel" />
 </div>
 
 ### 💼 Proyek
